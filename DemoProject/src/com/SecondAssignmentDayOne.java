@@ -1,6 +1,6 @@
 package com;
 
-public class SecondAssignmentDayOne {
+public class SecondAssignmentDayOne   {
   
 	public static void main(String args[])
 	{
